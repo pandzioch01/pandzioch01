@@ -17,6 +17,8 @@ Every business is different, so I keep my process **flexible and collaborative**
 
 We plan the project together and stay in close contact throughout the process. I listen to feedback, explain the available options clearly, and adapt the direction as the client's needs change—so the finished website genuinely fits the business.
 
+More in my portfolio down below!
+
 ## Technologies
 
 <p align="center">
