@@ -26,20 +26,6 @@ We plan the project together and stay in close contact throughout the process. I
   />
 </p>
 
-## GitHub stats
-
-<p align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=pandzioch01&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&rank_icon=github"
-    alt="Aleks Jankowski's GitHub statistics"
-  />
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandzioch01&layout=compact&theme=transparent&hide_border=true"
-    alt="Aleks Jankowski's most-used languages"
-  />
-</p>
 
 ---
 
