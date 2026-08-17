@@ -44,5 +44,5 @@ We plan the project together and stay in close contact throughout the process. I
 ---
 
 <p align="center">
-  Thanks for stopping by — feel free to explore my repositories.
+  Thanks for stopping by
 </p>
