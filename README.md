@@ -1,39 +1,19 @@
-<p align="right">
-  <strong>Polski</strong> · <a href="./README.en.md">English</a>
-</p>
+# 💫 O mnie:
 
-<h1 align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=38&duration=3500&pause=800&color=4493F8&center=true&vCenter=true&width=720&height=70&lines=Cze%C5%9B%C4%87!+%F0%9F%91%8B;Jestem+Aleks+Jankowski;Tworz%C4%99+strony+dla+ma%C5%82ych+firm"
-    alt="Cześć! Jestem Aleks Jankowski. Tworzę strony dla małych firm."
-  />
-</h1>
+Pomagam małym firmom tworzyć i rozwijać strony internetowe, które wyglądają profesjonalnie, działają sprawnie na różnych urządzeniach i ułatwiają klientom kontakt z firmą.\<br>\<br>Każda firma jest inna, dlatego mój sposób pracy jest elastyczny i oparty na współpracy. Poświęcam czas na poznanie celów, pomysłów, odbiorców i priorytetów klienta, zanim zdecydujemy, jak strona powinna działać i wyglądać.\<br>\<br>Wspólnie planujemy projekt i pozostajemy w stałym kontakcie przez cały czas jego realizacji. Słucham opinii, jasno przedstawiam dostępne możliwości i dostosowuję kierunek prac do zmieniających się potrzeb klienta — tak, aby gotowa strona naprawdę pasowała do jego firmy.\<br>\<br>Szukam zleceń i nowych projektów. Jestem również otwarty na naukę i rozwój.\<br>\<br>Ciekawostki: interesuję się także żeglarstwem i psychologią.
 
-<p align="center">
-  Tworzę dla małych firm przejrzyste, responsywne i skuteczne strony internetowe.
-</p>
+## 🌐 Media społecznościowe:
 
-## O mnie
+&#x20;
 
-Tworzę i ulepszam strony internetowe dla **małych firm** — profesjonalne, sprawnie działające na różnych urządzeniach i ułatwiające klientom kontakt z firmą.
+# 💻 Technologie:
 
-Każda firma jest inna, dlatego pracuję **elastycznie i wspólnie z klientem**. Najpierw poznaję jego cele, pomysły, odbiorców oraz priorytety, a dopiero później razem decydujemy, jak strona powinna wyglądać i działać.
+&#x20;              &#x20;
 
-Projekt planujemy razem i pozostajemy w stałym kontakcie. Uważnie słucham opinii, jasno przedstawiam dostępne możliwości i dostosowuję kierunek prac do zmieniających się potrzeb klienta — tak, aby gotowa strona naprawdę pasowała do jego firmy.
+# 📊 Statystyki GitHub:
 
-Więcej informacji znajdziesz w moim portfolio poniżej!
+\<br/>\
+\<br/>\
 
-## Technologie
 
-<p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,postgres,prisma,figma,git&perline=9"
-    alt="HTML, CSS, JavaScript, React, Tailwind CSS, PostgreSQL, Prisma, Figma i Git"
-  />
-</p>
-
----
-
-<p align="center">
-  Dzięki za odwiedziny
-</p>
+\<!-- Utworzono za pomocą GPRM ( [https://gprm.itsvg.in](https://gprm.itsvg.in) ) -->
