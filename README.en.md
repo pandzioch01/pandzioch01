@@ -1,39 +1,15 @@
-<p align="right">
-  <a href="./README.md">Polski</a> · <strong>English</strong>
-</p>
+# 💫 About Me:
+I work with small businesses to create and improve websites that look professional, work smoothly across devices, and make it easier for customers to connect with them.<br><br>Every business is different, so I keep my process flexible and collaborative. I take time to understand each client's goals, ideas, audience, and priorities before deciding how the website should work and look.<br><br>We plan the project together and stay in close contact throughout the process. I listen to feedback, explain the available options clearly, and adapt the direction as the client's needs change—so the finished website genuinely fits the business.<br><br>I seek work and projects, open to learn.<br><br>Fun facts: I'm also intrested in sailing and psychology
 
-<h1 align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=38&duration=3500&pause=800&color=4493F8&center=true&vCenter=true&width=720&height=70&lines=Hi+there!+%F0%9F%91%8B;I'm+Aleks+Jankowski;I+build+websites+for+small+businesses"
-    alt="Hi there! I'm Aleks Jankowski. I build websites for small businesses."
-  />
-</h1>
 
-<p align="center">
-  Web developer helping small businesses build websites that are clear, responsive, and effective.
-</p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_pandzioch) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ajankowski.kontakt@gmail.com) 
 
-## About me
+# 💻 Tech Stack:
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=pandzioch01&theme=monokai&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=pandzioch01&theme=monokai&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=pandzioch01&theme=monokai&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-I work with **small businesses** to create and improve websites that look professional, work smoothly across devices, and make it easier for customers to connect with them.
-
-Every business is different, so I keep my process **flexible and collaborative**. I take time to understand each client's goals, ideas, audience, and priorities before deciding how the website should work and look.
-
-We plan the project together and stay in close contact throughout the process. I listen to feedback, explain the available options clearly, and adapt the direction as the client's needs change—so the finished website genuinely fits the business.
-
-More in my portfolio down below!
-
-## Technologies
-
-<p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,postgres,prisma,figma,git&perline=9"
-    alt="HTML, CSS, JavaScript, React, Tailwind CSS, PostgreSQL, Prisma, Figma, and Git"
-  />
-</p>
-
----
-
-<p align="center">
-  Thanks for stopping by
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
